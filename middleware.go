@@ -1,4 +1,4 @@
-package integration_template
+package sqs
 
 import (
 	"context"
